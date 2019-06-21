@@ -1,1 +1,9 @@
  
+{"columns": [
+{"field": "selected", "title": "Seleziona", "type": "checkbox", "width": 150, "filterable": true},
+{"field": "timeStartCall", "title": "Inizio chiamata", "type": "date", "width": 135, "filterable": true},
+{"field": "responseCode", "title": "Response Code", "type": "number", "width": 135, "filterable": true},
+{"field": "probe", "title": "Sonda", "type": "text", "width": 120, "filterable": true},
+{"field": "callerName", "title": "Chiamante", "type": "text", "width": 130, "filterable": true},
+{"field": "calledName", "title": "Chiamato", "type": "text", "width": 130, "filterable": true}
+]}
